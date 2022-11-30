@@ -16,4 +16,4 @@
 ![Logo](https://raw.githubusercontent.com/kuppanipoojitha/IPL_DATA_VISUALIZATION_AND_ANALYSIS/main/p3.jpg)
 
 #### Screenshot 4
-![Logo](https://raw.githubusercontent.com/kuppanipoojitha/IPL_DATA_VISUALIZATION_AND_ANALYSIS/main/p3.jpg)
+![Logo](https://raw.githubusercontent.com/kuppanipoojitha/IPL_DATA_VISUALIZATION_AND_ANALYSIS/main/p5.jpg)
